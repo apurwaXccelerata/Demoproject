@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application10</string>
+    <string name="Splash_Screen" translatable="false" />
+    <string name="Login_Form" translatable="false" />
+</resources>
